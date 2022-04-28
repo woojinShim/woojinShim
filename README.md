@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img alt="Solidity" src ="https://img.shields.io/badge/Solidity-black.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 
 <!--
