@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="Solidity" src ="https://img.shields.io/badge/Solidity-white.svg?&style=for-the-badge&logo=Solidity&logoColor=black"/>
+
 
 <!--
 **woojinShim/woojinShim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
