@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> Tech Stack 📚 </h2>
+<h2> Tech Stack 🛠 </h2>
 
 <img alt="Solidity" src ="https://img.shields.io/badge/Solidity-black.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-yellow.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
