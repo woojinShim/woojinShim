@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Etheruem" src ="https://img.shields.io/badge/Etheruem-black.svg?&style=for-the-badge&logo=Etheruem&logoColor=white"/>
+<img alt="Etheruem" src ="https://img.shields.io/badge/Etheruem-white.svg?&style=for-the-badge&logo=Etheruem&logoColor=white"/>
 <img alt="Solidity" src ="https://img.shields.io/badge/Solidity-black.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-yellow.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-blue.svg?&style=for-the-badge&logo=React&logoColor=white"/>
