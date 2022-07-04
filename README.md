@@ -4,6 +4,7 @@
 
 <img alt="Solidity" src ="https://img.shields.io/badge/Solidity-black.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-yellow.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-blue.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-blue.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-orange.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-skyblue.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
