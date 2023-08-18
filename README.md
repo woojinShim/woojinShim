@@ -4,6 +4,7 @@
 
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-yellow.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-blue.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img alt="Express" src ="https://img.shields.io/badge/Express-green.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-blue.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-orange.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="GIT" src ="https://img.shields.io/badge/GIT-red.svg?&style=for-the-badge&logo=GIT&logoColor=white"/>
@@ -11,7 +12,8 @@
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-blue.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-blue.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 <img alt="Ansible" src ="https://img.shields.io/badge/Ansible-black.svg?&style=for-the-badge&logo=Ansible&logoColor=white"/>
-<img alt="Express" src ="https://img.shields.io/badge/Express-green.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
+<img alt="Terraform" src ="https://img.shields.io/badge/Terraform-purple.svg?&style=for-the-badge&logo=Terraform&logoColor=white"/>
+
 <!--
 **woojinShim/woojinShim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
